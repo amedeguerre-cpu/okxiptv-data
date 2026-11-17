@@ -1,0 +1,21 @@
+#EXTM3U url-tvg="https://amedeguerre-cpu.github.io/okxiptv-data/demo/okx-demo-epg.xml"
+#EXTINF:-1 tvg-id="okx-demo-1" tvg-name="Test Channel 1" group-title="Live Test",Test Channel 1
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/live-audio_eng=128000-video=1000000.m3u8
+#EXTINF:-1 tvg-id="okx-demo-2" tvg-name="Test Channel 2" group-title="Live Test",Test Channel 2
+https://demo.unified-streaming.com/k8s/live/scte35.isml/scte35-audio_eng=128000-video=1000000.m3u8
+#EXTINF:-1 tvg-id="okx-demo-3" tvg-name="Test Channel 3" group-title="Live Test",Test Channel 3
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-id="okx-demo-4" tvg-name="Test Channel 4" group-title="Live Test",Test Channel 4
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="okx-demo-5" tvg-name="Test Channel 5" group-title="Live Test",Test Channel 5
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-name="Test Channel 6" group-title="Live Test",Test Channel 6
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
+#EXTINF:-1 tvg-name="Big Buck Bunny (2008)" group-title="Movies",Big Buck Bunny (2008)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-name="Elephants Dream (2006)" group-title="Movies",Elephants Dream (2006)
+https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov
+#EXTINF:-1 tvg-name="Sintel (2010)" group-title="Movies",Sintel (2010)
+https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv
+#EXTINF:-1 tvg-name="Tears of Steel (2012)" group-title="Movies",Tears of Steel (2012)
+https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov

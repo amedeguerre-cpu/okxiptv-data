@@ -1,0 +1,36 @@
+# Keeps the App Review demo guide (demo/okx-demo-epg.xml) covering the next
+# three weeks, and fails when one of the demo streams stops working.
+name: demo-guide
+
+on:
+  schedule:
+    - cron: '41 5 * * 1' # Mondays 05:41 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Never at the same time as the packs commit.
+concurrency:
+  group: build-packs
+  cancel-in-progress: false
+
+jobs:
+  guide:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: 3.14.0
+      - run: dart pub get
+      - run: dart run tool/demo_playlist.dart --out demo --days 21 --check
+      - name: Commit if anything changed
+        run: |
+          git add -A demo
+          git diff --cached --quiet && exit 0
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Demo guide $(date -u +%Y-%m-%d)"
+          git push
