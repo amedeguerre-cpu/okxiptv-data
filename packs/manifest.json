@@ -1,0 +1,1157 @@
+{
+ "ad": {
+  "bytes": 225,
+  "sha256": "e7709e6924213f38162a925a79b8c2cc273c9fca97f11ad6916422991836e7ec",
+  "version": "2026-11-17"
+ },
+ "ae": {
+  "bytes": 3769,
+  "sha256": "60643325b14f3752528b8daf3a11e46ee5f0bcae85be92bce08fac82b5e3ca1a",
+  "version": "2026-11-17"
+ },
+ "af": {
+  "bytes": 1342,
+  "sha256": "7a4a9ffe660bfa7c4a861b5550c4c3dbf8d3c42231b972e1451828609fb80e10",
+  "version": "2026-11-17"
+ },
+ "ag": {
+  "bytes": 259,
+  "sha256": "a23c2df5d8e7ff09474e09a015bb5b9380a1b70358722b74c5694ef8b816a866",
+  "version": "2026-11-17"
+ },
+ "ai": {
+  "bytes": 226,
+  "sha256": "c71c2f597c80399b33aba668426f726aa139b8a7cf0a1618104cb24237235f26",
+  "version": "2026-11-17"
+ },
+ "al": {
+  "bytes": 2817,
+  "sha256": "da3122412ee25c9c44aea33662bb428c20e3cabb4ba5775f45c27c5c98196eaa",
+  "version": "2026-11-17"
+ },
+ "am": {
+  "bytes": 1513,
+  "sha256": "bf271d13a9a8c5ecf3f9e06364a5acdeeb742154c0c7e3a0d1da3a744b909cb1",
+  "version": "2026-11-17"
+ },
+ "ao": {
+  "bytes": 1195,
+  "sha256": "40fcd1c2942d47df045814f5ab4c49711ca1a25e6287c72b1b7de9ad22fb0a82",
+  "version": "2026-11-17"
+ },
+ "ar": {
+  "bytes": 12636,
+  "sha256": "db048d8867d4ac5799567695186ba98321b5170ab97159a2b0f1ba88830877f4",
+  "version": "2026-11-17"
+ },
+ "as": {
+  "bytes": 436,
+  "sha256": "b2a2b80f0be1c1d455bd0a53250e2b5f8b3947be3093445ff06ff8212eb426b7",
+  "version": "2026-11-17"
+ },
+ "at": {
+  "bytes": 3083,
+  "sha256": "b50f6448b885e30136a4b51066930610d80d1db46242a111546e07765deaa23c",
+  "version": "2026-11-17"
+ },
+ "au": {
+  "bytes": 4776,
+  "sha256": "c5915689f29ec02f6475cc7928ac2c5fa379a1156d4a6f6298a186e975ceb130",
+  "version": "2026-11-17"
+ },
+ "aw": {
+  "bytes": 500,
+  "sha256": "498474f8becdc3cf80b22daf187de386c592a59fb2c1c31260ed9ca9385e3ed1",
+  "version": "2026-11-17"
+ },
+ "ax": {
+  "bytes": 145,
+  "sha256": "ddf68438183a59775294fd2dbb5d215474864076af2e4b72d2572b6472bbc3bf",
+  "version": "2026-11-17"
+ },
+ "az": {
+  "bytes": 1211,
+  "sha256": "8a515505185f24e53859e0465b02db22f87ebacc5a6862bc73e33756b40926a7",
+  "version": "2026-11-17"
+ },
+ "ba": {
+  "bytes": 2728,
+  "sha256": "c56e802c66ad4887529f011a033181040dc15fc10025144d52ccd8539719a0c8",
+  "version": "2026-11-17"
+ },
+ "bb": {
+  "bytes": 401,
+  "sha256": "4bb07fec06d4ff93763c2c85775815a80f6fdbfbf2234dc8ff466c0626f3f38a",
+  "version": "2026-11-17"
+ },
+ "bd": {
+  "bytes": 2287,
+  "sha256": "4e8308077f8c51e4ae452cd5ee7cc28e4300f54398a405984a31c05bfea83552",
+  "version": "2026-11-17"
+ },
+ "be": {
+  "bytes": 3475,
+  "sha256": "c97f71506dbdab5419d48a4d96eea9ad926c91688660045382d749e51e20cd71",
+  "version": "2026-11-17"
+ },
+ "bf": {
+  "bytes": 998,
+  "sha256": "f83a76d87cf88197d691d7b4f1194a76cbd0e75437ea8ba264b79ff64f2e4bc1",
+  "version": "2026-11-17"
+ },
+ "bg": {
+  "bytes": 3433,
+  "sha256": "204ba8d38ddaf302bc10e134bffc7a0fdf7a31b0104a09b9c4b3de608a1d683b",
+  "version": "2026-11-17"
+ },
+ "bh": {
+  "bytes": 240,
+  "sha256": "f20f3af1096602b619c3bf1b06c32ba6c18fec3ff790e61ae979ec50541d9c84",
+  "version": "2026-11-17"
+ },
+ "bi": {
+  "bytes": 518,
+  "sha256": "4b3acbd93a35c1af4e30b11e5474167b4fe5885592feb8fc112246f695aed0c4",
+  "version": "2026-11-17"
+ },
+ "bj": {
+  "bytes": 1758,
+  "sha256": "1aa49b5bd7f7d8436b3f203f5741d02a189a5c598bba50ae740ceefc0538f83f",
+  "version": "2026-11-17"
+ },
+ "bm": {
+  "bytes": 289,
+  "sha256": "ff037d5da577d141277d1b93324708373166043b90562038ff7fbd92ad10df1b",
+  "version": "2026-11-17"
+ },
+ "bn": {
+  "bytes": 202,
+  "sha256": "270aaa749d980e73e9d71da78528263c67e855336824afc64cecd2de4a63a7eb",
+  "version": "2026-11-17"
+ },
+ "bo": {
+  "bytes": 6647,
+  "sha256": "1f0241ef39e2ed83c52f2c12fae56f508118021351d2bfb81362803d638f287c",
+  "version": "2026-11-17"
+ },
+ "bq": {
+  "bytes": 353,
+  "sha256": "38361d34683296889a7081887cb214afdb98b028c2d08c63093fcbc305ad19f2",
+  "version": "2026-11-17"
+ },
+ "br": {
+  "bytes": 18144,
+  "sha256": "8f54394091004d946e41cb3f7c81b9bd41625f735582c3302d236e0d6a5c113a",
+  "version": "2026-11-17"
+ },
+ "bs": {
+  "bytes": 508,
+  "sha256": "4add0a73ce07ef63a5dc0322cc6dc068a407c3def9889df93f010014aaa383b3",
+  "version": "2026-11-17"
+ },
+ "bt": {
+  "bytes": 247,
+  "sha256": "9e815bf33d48fd8cc3f014f7c6bf6f22b6d40761f05c6a3e8483cac209564859",
+  "version": "2026-11-17"
+ },
+ "bw": {
+  "bytes": 294,
+  "sha256": "9d4ac0549231e7cc35d20398902e16ab75fe2038050f8bc8fde138c38f58608f",
+  "version": "2026-11-17"
+ },
+ "by": {
+  "bytes": 1476,
+  "sha256": "4c22ee7fe9ef8ebe47e7d231e79e9ebfe056a47ebbcdfb9fd7443cfe736e2ba1",
+  "version": "2026-11-17"
+ },
+ "bz": {
+  "bytes": 641,
+  "sha256": "7b154530603d19e0f2b2fd4e6a495d1b0cbcb35aa202c76c349e27671b8879a9",
+  "version": "2026-11-17"
+ },
+ "ca": {
+  "bytes": 13489,
+  "sha256": "824c7df9417d05fe5e678e4c924d69d42f0e28962edb43a81d8e9c302d3a0522",
+  "version": "2026-11-17"
+ },
+ "cd": {
+  "bytes": 4202,
+  "sha256": "0cb884e5cb9ec437d6890cd05ef3c2f1058ebf9678c6f2a349248d0859e62698",
+  "version": "2026-11-17"
+ },
+ "cf": {
+  "bytes": 213,
+  "sha256": "64a2b622689ebcc5db92074ce6e55635e9ec0efd3a7892a4d2086963a83d81f8",
+  "version": "2026-11-17"
+ },
+ "cg": {
+  "bytes": 752,
+  "sha256": "591e4307af8a39035e1d11234f1a249734736cbd1d69e54b08ac6177fbaad2c7",
+  "version": "2026-11-17"
+ },
+ "ch": {
+  "bytes": 3640,
+  "sha256": "c57499cea77c679ddb3162d2457f17991d30ce9b10ab5791426a21eed665b6da",
+  "version": "2026-11-17"
+ },
+ "ci": {
+  "bytes": 1752,
+  "sha256": "bce865f5d8b04ae5a6dee5df163e94f56774c95d05d002475473cd7b1a869a97",
+  "version": "2026-11-17"
+ },
+ "ck": {
+  "bytes": 223,
+  "sha256": "21cd79b4cb28e19ba5d61aaf7b02415714506dd765a457d8e96724813659e7a6",
+  "version": "2026-11-17"
+ },
+ "cl": {
+  "bytes": 11003,
+  "sha256": "cfa04555fde6ae5bc4a3533c37af29b9a82f87e314606ce164dd2d3dd2ff7690",
+  "version": "2026-11-17"
+ },
+ "cm": {
+  "bytes": 2924,
+  "sha256": "cbc824a2e1462f89bc389df909c1230ff6c4f6ba0012f8af75f9c6dc54381a53",
+  "version": "2026-11-17"
+ },
+ "cn": {
+  "bytes": 18338,
+  "sha256": "7dd7d7703bfb97d6f16887d2bf4f44d984c325a3961f46069acb5065bd7f1ae5",
+  "version": "2026-11-17"
+ },
+ "co": {
+  "bytes": 11660,
+  "sha256": "87ff119e802634140b00a41d4c9de2c31c88787578f91624350554532a0774ae",
+  "version": "2026-11-17"
+ },
+ "cr": {
+  "bytes": 3329,
+  "sha256": "8215f6bad3db8c1bdd09a542d829946c5558edd64ecb67049e66a67f6418e2d5",
+  "version": "2026-11-17"
+ },
+ "cu": {
+  "bytes": 1125,
+  "sha256": "121c6965e139b004db2c4f8d8fa26c0b338a49cf680d10609de3a25ced89d754",
+  "version": "2026-11-17"
+ },
+ "cv": {
+  "bytes": 416,
+  "sha256": "be098a0992cac75917f2f16ed595ef0419fac689f95c7f8b33d6421528f19f15",
+  "version": "2026-11-17"
+ },
+ "cw": {
+  "bytes": 329,
+  "sha256": "11f2678e550f7cc5e72feee58a85db7cc860789480a2573c047004898fdcda30",
+  "version": "2026-11-17"
+ },
+ "cy": {
+  "bytes": 1569,
+  "sha256": "a7105e80e9112ccd2af870f132ce9cd9619cf8de61bb7f87965c7c2ab24d42db",
+  "version": "2026-11-17"
+ },
+ "cz": {
+  "bytes": 4145,
+  "sha256": "a9fb0855f7d766fe8b0c6a69a83c3d38ed0eb06197c9f6d6ce17284df4201dc2",
+  "version": "2026-11-17"
+ },
+ "de": {
+  "bytes": 19620,
+  "sha256": "fb64cafd9a4a6080021752812bb6e971ad7626f47b4fb2b36884fa758c109952",
+  "version": "2026-11-17"
+ },
+ "dj": {
+  "bytes": 316,
+  "sha256": "b7992cd5dd52d9fa06c07ff01b3b93d2c5d94ab362d7985efa1f7a5b1d40b286",
+  "version": "2026-11-17"
+ },
+ "dk": {
+  "bytes": 1916,
+  "sha256": "f88aac2b81f5998177507aafe356c828dad51d9ddd9c3c08fbf960975677ca3a",
+  "version": "2026-11-17"
+ },
+ "dm": {
+  "bytes": 267,
+  "sha256": "5160cae95094641ff2f70cf59d73c04edc074ba095590154ac10151a1aaa5210",
+  "version": "2026-11-17"
+ },
+ "do": {
+  "bytes": 7558,
+  "sha256": "de109d773ed0727f013f8678ed600609a5e1e314a43358551919e715b53ae3a3",
+  "version": "2026-11-17"
+ },
+ "dz": {
+  "bytes": 1597,
+  "sha256": "d54001603b00110947f0425d7d9efe7e0d6aaa70b536295420cf156aaff075d4",
+  "version": "2026-11-17"
+ },
+ "ec": {
+  "bytes": 5084,
+  "sha256": "16ed717ea24d1a3086b6cb2deb83735a57c30034deff6125faa24391a3161484",
+  "version": "2026-11-17"
+ },
+ "ee": {
+  "bytes": 1777,
+  "sha256": "a112b07fba8126effa5c05a42edd51f73eb89ae1d0514c302cf018bf00423d93",
+  "version": "2026-11-17"
+ },
+ "eg": {
+  "bytes": 2925,
+  "sha256": "e41e905296cc125dcb1a3443e9599d069975823962757e6e2076933b942bf2b3",
+  "version": "2026-11-17"
+ },
+ "eh": {
+  "bytes": 139,
+  "sha256": "5c824b86085d761386f030dde4ea7533b815e27dc4cd696b219d3db68c07b250",
+  "version": "2026-11-17"
+ },
+ "er": {
+  "bytes": 149,
+  "sha256": "cd3e099b1f1fed0eeddfb54987e1287cad2bdb0b55a8d00375079c5d0d542e55",
+  "version": "2026-11-17"
+ },
+ "es": {
+  "bytes": 14772,
+  "sha256": "3d215c10b66ee884bd95cbe645936c91a8fbcf58a156bd368ebe11f7a51e091e",
+  "version": "2026-11-17"
+ },
+ "et": {
+  "bytes": 2513,
+  "sha256": "8460bc47ce80a543ca4274906c96ca168f67cf4b4a3bb2aa38af6060d34338fe",
+  "version": "2026-11-17"
+ },
+ "fi": {
+  "bytes": 1751,
+  "sha256": "211f03cb124b474c1a3fade5968575f48dc29edd00498f4f79a000ef003c9cdf",
+  "version": "2026-11-17"
+ },
+ "fj": {
+  "bytes": 319,
+  "sha256": "853d339bac2b146d55fa28a45233ef64f1d00690632fecb4f8b028f3d6712723",
+  "version": "2026-11-17"
+ },
+ "fk": {
+  "bytes": 151,
+  "sha256": "156403c17a3a7f3eaf2aa0311e15c273ba9326a57b093033f0900eb2249df483",
+  "version": "2026-11-17"
+ },
+ "fm": {
+  "bytes": 168,
+  "sha256": "954f3666051962c0982932405f4c46390e88528162b08b227ae9829f5df273ee",
+  "version": "2026-11-17"
+ },
+ "fo": {
+  "bytes": 229,
+  "sha256": "5595891363043f513819a4325224e134e7cf7525d23931bca220b6472aab967d",
+  "version": "2026-11-17"
+ },
+ "fr": {
+  "bytes": 13196,
+  "sha256": "f8f0ef19950a9b996d6af1e6c6bcde037d3490eae93650cffd1bbfcd4c8b13ba",
+  "version": "2026-11-17"
+ },
+ "ga": {
+  "bytes": 602,
+  "sha256": "3a82022625db083e5fc6bd33db885bda5f4e5d03265b65589e422df1087fdc12",
+  "version": "2026-11-17"
+ },
+ "gd": {
+  "bytes": 517,
+  "sha256": "b3ee966d2b90dff81f185985e32e5634fa70a40a72289de40d32c89ce8cfb9bf",
+  "version": "2026-11-17"
+ },
+ "ge": {
+  "bytes": 2508,
+  "sha256": "990b73708327fd587673ac681416b46b068e7e46ab9dbd844fdfbb460b758923",
+  "version": "2026-11-17"
+ },
+ "gf": {
+  "bytes": 281,
+  "sha256": "ac7e7e8aa98b29a9638223e57cffa250caddff2edaaf358bac41884773ec473b",
+  "version": "2026-11-17"
+ },
+ "gh": {
+  "bytes": 4065,
+  "sha256": "aecefdb36ca03959bb89a52b89bc20905bda6e5c54237f01af04671c5d3bd31e",
+  "version": "2026-11-17"
+ },
+ "gi": {
+  "bytes": 166,
+  "sha256": "4d8cb14dedb9e8a626683b2ae83d0b300ccc12c6bc4eb9341f264d3a3d2d4dcf",
+  "version": "2026-11-17"
+ },
+ "gl": {
+  "bytes": 226,
+  "sha256": "e7b4d4ffa511d537cbd81706e25c25a860ce1691c39c212a77393b138e993c8d",
+  "version": "2026-11-17"
+ },
+ "gm": {
+  "bytes": 273,
+  "sha256": "d5ade69042f6c01f466cac6b57f7c0ea16f2c75d8ca87717608017c66e9dd02a",
+  "version": "2026-11-17"
+ },
+ "gn": {
+  "bytes": 963,
+  "sha256": "63968a12a21e70663238cd7ef9b93f7047f1a8960e617c7ffc3a30818981c255",
+  "version": "2026-11-17"
+ },
+ "gp": {
+  "bytes": 470,
+  "sha256": "c25745a88bebf185cb6acd25087dce65add4569768247877d097c8bf712bf963",
+  "version": "2026-11-17"
+ },
+ "gq": {
+  "bytes": 331,
+  "sha256": "4fff0f32a9d8eac7c97813e6e8ff2f79037297818edd364e231242a177a530c2",
+  "version": "2026-11-17"
+ },
+ "gr": {
+  "bytes": 6032,
+  "sha256": "28357f28016ac225aaf3d1e69e31f11483c60a2a4799cdcf2152f2147fa530e1",
+  "version": "2026-11-17"
+ },
+ "gt": {
+  "bytes": 4259,
+  "sha256": "17b57f17f6d8451d58efbe66e722dccbfc479c37167fc18f778f1aeae6322bd6",
+  "version": "2026-11-17"
+ },
+ "gu": {
+  "bytes": 495,
+  "sha256": "d3102210a0a33fce61cfd8ac4a3f79e277caaa1cf66dec3cb19524a7b55fe55f",
+  "version": "2026-11-17"
+ },
+ "gw": {
+  "bytes": 198,
+  "sha256": "c8214e7996bf5c8a4ff06efdd1684fbef7a1871214b4633bc727498ae6c82312",
+  "version": "2026-11-17"
+ },
+ "gy": {
+  "bytes": 978,
+  "sha256": "a8168f3428d4efbe0c6d8a2fde0d4f12a9f192fe3275cbae0408024ec06baac1",
+  "version": "2026-11-17"
+ },
+ "hk": {
+  "bytes": 3602,
+  "sha256": "92d62b692ea5f6eb6517594b9f8f5859abfaab18a7178d981675da47b15c77d1",
+  "version": "2026-11-17"
+ },
+ "hn": {
+  "bytes": 3958,
+  "sha256": "fdfe28d331650469b30cb99cc1e490655d05589aba04cd289536a47ac5b7ac9b",
+  "version": "2026-11-17"
+ },
+ "hr": {
+  "bytes": 2079,
+  "sha256": "f923b2c44cd73d6450f0f863232dfe0ee24cc4f2296e3af781df69616fc95129",
+  "version": "2026-11-17"
+ },
+ "ht": {
+  "bytes": 1479,
+  "sha256": "6a2f8ede0a35250bfab7308a4ad3a4237f7000c84141206609dfddba566811bb",
+  "version": "2026-11-17"
+ },
+ "hu": {
+  "bytes": 4779,
+  "sha256": "585798d251e48dfff648dd0aa80111220cf197d7b0361c8cfef7a7d75fe26b35",
+  "version": "2026-11-17"
+ },
+ "id": {
+  "bytes": 8231,
+  "sha256": "a549cd27761973b65a430f39a8797f34325021991730ad099f1b2a2c686b0996",
+  "version": "2026-11-17"
+ },
+ "ie": {
+  "bytes": 2208,
+  "sha256": "1e3ae358b479dd7c36242f577a56dbcb363b98d64d142d90601478db4e32dd1b",
+  "version": "2026-11-17"
+ },
+ "il": {
+  "bytes": 3962,
+  "sha256": "a0de283b662ddc7e6ae3a2b8bab2c32934227105a3784d9ac9d11719260b3a88",
+  "version": "2026-11-17"
+ },
+ "in": {
+  "bytes": 36813,
+  "sha256": "da899785ff5c42b1c2cd8b580906ccda6f2c7e0ef4979df4cf905706b1757d43",
+  "version": "2026-11-17"
+ },
+ "iq": {
+  "bytes": 3415,
+  "sha256": "01e3cd83523133f308544e862e02861f353e714f14e62b00391638f47659fd88",
+  "version": "2026-11-17"
+ },
+ "ir": {
+  "bytes": 4881,
+  "sha256": "e31cfc5075b0214eff226793e91b3413d10793304c1c32bd9f302898b7589243",
+  "version": "2026-11-17"
+ },
+ "is": {
+  "bytes": 797,
+  "sha256": "af9e70828fde493679335357bf252b0287a96786952ee26b87d36349e66761f6",
+  "version": "2026-11-17"
+ },
+ "it": {
+  "bytes": 12605,
+  "sha256": "585a55164b7b12bc0ff515889a1a53903cc35d5ca0f2e24020730f02fb24593e",
+  "version": "2026-11-17"
+ },
+ "jm": {
+  "bytes": 991,
+  "sha256": "c41cc74e56a02736dd7680b8b83ac0e95fdc1603e200e2ab999be73c6047f26e",
+  "version": "2026-11-17"
+ },
+ "jo": {
+  "bytes": 1665,
+  "sha256": "ee4478e5a5d95eb92ea8f62048195217479b42512b160215e0487accde5c252c",
+  "version": "2026-11-17"
+ },
+ "jp": {
+  "bytes": 9127,
+  "sha256": "83e01983b451d11a80363eb80e41e90388e40344ec6539fd3b162fa8033fc0c8",
+  "version": "2026-11-17"
+ },
+ "ke": {
+  "bytes": 3215,
+  "sha256": "fc29f499fac50571ae487106e7c6e5880bb4834a9309bbed80dd54ada1a3e322",
+  "version": "2026-11-17"
+ },
+ "kg": {
+  "bytes": 1499,
+  "sha256": "64e8aa789b9266b1ce5aa6a338078544ac1a5c63771f36273aafae1005dbd676",
+  "version": "2026-11-17"
+ },
+ "kh": {
+  "bytes": 1106,
+  "sha256": "b0d57db7253340925f903c1611eb7b8a7b30395b8374d941350d8f50ec4a225c",
+  "version": "2026-11-17"
+ },
+ "ki": {
+  "bytes": 173,
+  "sha256": "b981562486f23998164a22aabac8c8dac82f2a586faa320d676a529968125119",
+  "version": "2026-11-17"
+ },
+ "km": {
+  "bytes": 162,
+  "sha256": "405a9e755fd4008c3299875d2e72eb0b7f8193cad01e5fdb224fee0323146259",
+  "version": "2026-11-17"
+ },
+ "kn": {
+  "bytes": 275,
+  "sha256": "3a8b16ac0a6400aaa0e4abbcac13ab6a57948d863172869e23b784c9769ab96f",
+  "version": "2026-11-17"
+ },
+ "kp": {
+  "bytes": 439,
+  "sha256": "de2d51e0d15dc3297cb7733b4a8899d4dfd8f56b03416472975c99c050837c64",
+  "version": "2026-11-17"
+ },
+ "kr": {
+  "bytes": 8406,
+  "sha256": "2a365fca3d522b3c59bc563b6dff35d52d50d43edf7d9ef3fb5ae4790d9ae676",
+  "version": "2026-11-17"
+ },
+ "kw": {
+  "bytes": 921,
+  "sha256": "c3e67eaa8d9007b5016ae85d57ed084dbf0bba1b808aef6375cde85d1c405f21",
+  "version": "2026-11-17"
+ },
+ "ky": {
+  "bytes": 278,
+  "sha256": "53d469b8e10cd1792efdc7a533938e5fed7157609ebdb2179eca3b136b8ad6e7",
+  "version": "2026-11-17"
+ },
+ "kz": {
+  "bytes": 2816,
+  "sha256": "953a065dd7cbc3147d8f744df209864e009124dd99fee731504801d07d4e0402",
+  "version": "2026-11-17"
+ },
+ "la": {
+  "bytes": 703,
+  "sha256": "6d34ac97ebc4133b7ab7b706b0b96f47383e70361f480ea1d1ca5dc26e0af4c4",
+  "version": "2026-11-17"
+ },
+ "lb": {
+  "bytes": 1381,
+  "sha256": "9defc9812ee6d028ea175db8b0a55d3bb596ed9ccac3eeaf77ceb0391af447ca",
+  "version": "2026-11-17"
+ },
+ "lc": {
+  "bytes": 551,
+  "sha256": "ccabb6be06a1959cd3e59ebfc6028d6fec2e50153fa10e27b19a816ba3028899",
+  "version": "2026-11-17"
+ },
+ "li": {
+  "bytes": 227,
+  "sha256": "e9a15ab0ed9fe0a5eb66c78488df90f7da1f483676c543bdcec3954fb290f3b8",
+  "version": "2026-11-17"
+ },
+ "lk": {
+  "bytes": 2057,
+  "sha256": "740ed31992ab1d148d64404e70f227fe2360aa382bb8f23c7464e9d5d18feaaa",
+  "version": "2026-11-17"
+ },
+ "lr": {
+  "bytes": 629,
+  "sha256": "185cfde8a5eb125bd6262f2601b4e622175970f2ac2dfaf9884338749ea1e881",
+  "version": "2026-11-17"
+ },
+ "ls": {
+  "bytes": 150,
+  "sha256": "88ad31bc5611730872cf6929cd913ec627fc459d0659f17ffd19ac9b83d868aa",
+  "version": "2026-11-17"
+ },
+ "lt": {
+  "bytes": 1224,
+  "sha256": "09e0c69a7e1b9e94fa2df6a09f5eae1cfdbb323ec83d4134421782af90d956ea",
+  "version": "2026-11-17"
+ },
+ "lu": {
+  "bytes": 682,
+  "sha256": "ecc478899b20220fe20d5900a79db5e9e96df2aebfdb6cd1e5504c53fb94fd5d",
+  "version": "2026-11-17"
+ },
+ "lv": {
+  "bytes": 1296,
+  "sha256": "cc693575b965af71a27f864dd8b922108cab462ad24ae2d667611d32bda1657c",
+  "version": "2026-11-17"
+ },
+ "ly": {
+  "bytes": 1115,
+  "sha256": "8d4eca00df3534b6a92eea7c769d6ca3b267af927c33eeae290a2ed8a31af9f6",
+  "version": "2026-11-17"
+ },
+ "ma": {
+  "bytes": 1169,
+  "sha256": "a1dfcedd4159cf47e9f8b0b15267b276ce8549e6121f81b20e78a498a674539f",
+  "version": "2026-11-17"
+ },
+ "mc": {
+  "bytes": 278,
+  "sha256": "dda8c02b5b9c96075365c321e79f81633162040e2eaee83d120431095450da6d",
+  "version": "2026-11-17"
+ },
+ "md": {
+  "bytes": 1479,
+  "sha256": "17b3d37609b6363e21769de2dcecc04f73598b2fedac42353d96fd2d91d134df",
+  "version": "2026-11-17"
+ },
+ "me": {
+  "bytes": 982,
+  "sha256": "2f133f644ef388a95c4dc0cf677cd192138f3cbee849a70148e7db959f3b921d",
+  "version": "2026-11-17"
+ },
+ "mg": {
+  "bytes": 1299,
+  "sha256": "215a19cb77567ae9252878fb4b7de189aed48443af62cf3013ec7fea6467dc7b",
+  "version": "2026-11-17"
+ },
+ "mk": {
+  "bytes": 1864,
+  "sha256": "1bbeb0fb1b6e7303032327924636a84b48130574d9429f88211b07d03b1e4576",
+  "version": "2026-11-17"
+ },
+ "ml": {
+  "bytes": 1101,
+  "sha256": "7cad8e1b5c20562f9d5bca8b995b4ac7f3a5b53adb8172a8a2a57c77e54739b1",
+  "version": "2026-11-17"
+ },
+ "mm": {
+  "bytes": 1564,
+  "sha256": "5d9b80bf8bd4db4e86ff6ef947a82c180f4d5bcbe7f97416339327929e7a062c",
+  "version": "2026-11-17"
+ },
+ "mn": {
+  "bytes": 3374,
+  "sha256": "5dfca166ef0f53ddf5d56f0efcd456b2dc461412e74921ec6e24138fa2e0d2e7",
+  "version": "2026-11-17"
+ },
+ "mo": {
+  "bytes": 638,
+  "sha256": "8415b893c88b688ce1bbeb319aca820d4cf4bc8b884a4e3140b8d0e1762b745e",
+  "version": "2026-11-17"
+ },
+ "mp": {
+  "bytes": 239,
+  "sha256": "ced7f75e5211caf8f18a7d3c9469008e93ca5afc0107763a764e634547cce84d",
+  "version": "2026-11-17"
+ },
+ "mq": {
+  "bytes": 550,
+  "sha256": "f46dc4c33c862779afe8c68744335d180544cfb9b7f3a431c3864933580ef545",
+  "version": "2026-11-17"
+ },
+ "mr": {
+  "bytes": 619,
+  "sha256": "06ca3c37a32ddb55a14d2815b6d3b0f06fc04f4baf2a347c134c96786a6a9bb9",
+  "version": "2026-11-17"
+ },
+ "ms": {
+  "bytes": 156,
+  "sha256": "25b2279e60200ba4873822af1b808dcc0ecddef548a7edef60fc724748334f25",
+  "version": "2026-11-17"
+ },
+ "mt": {
+  "bytes": 698,
+  "sha256": "4ad0a066c6add0f90108697a2e744fb71fbfcf32624251e4a85928212b19deae",
+  "version": "2026-11-17"
+ },
+ "mu": {
+  "bytes": 379,
+  "sha256": "bff65612d5359c1b6ac411e7d0173efc44f02a9d1eb1d0814c56da91f855206f",
+  "version": "2026-11-17"
+ },
+ "mv": {
+  "bytes": 624,
+  "sha256": "b407a1596fa19fb26c69c791d5d4c6a9421ef75abfd77450ee45ead8ec9ddea6",
+  "version": "2026-11-17"
+ },
+ "mw": {
+  "bytes": 501,
+  "sha256": "fda9a7c6eb91b36460ce943e3b9dc187da008a584a58e5d98c781cbf4bed3184",
+  "version": "2026-11-17"
+ },
+ "mx": {
+  "bytes": 11555,
+  "sha256": "2cec1e5cb73e892f5be091135e4ae32119fbba38f1b3d40286682dc484870fd7",
+  "version": "2026-11-17"
+ },
+ "my": {
+  "bytes": 2129,
+  "sha256": "2e9712bfba4ac70a298373753d8c8e8df6bc39235ccbc80950cc6fb265035081",
+  "version": "2026-11-17"
+ },
+ "mz": {
+  "bytes": 1268,
+  "sha256": "85c7205dfa5a54e200e520c34e2c38a65024c6211c0510140bf3cf0735efafe0",
+  "version": "2026-11-17"
+ },
+ "na": {
+  "bytes": 382,
+  "sha256": "c2a4fec3d5c3d68d657a4749032696161a7b7ffdecfd7cb47ca75902bc5d2217",
+  "version": "2026-11-17"
+ },
+ "nc": {
+  "bytes": 256,
+  "sha256": "7a0e09b63930ad5f5782d53276490ee1e35fabe4c0b8c0965e1f102f29c4c545",
+  "version": "2026-11-17"
+ },
+ "ne": {
+  "bytes": 538,
+  "sha256": "17572ecd4b726bfd463a0fe9c3d88bb9bb6a92fe5bd8be86479e2b0fd9353530",
+  "version": "2026-11-17"
+ },
+ "ng": {
+  "bytes": 5680,
+  "sha256": "d83904fb9de95cf842b58ba1f0a392db8dd4a841731f5d5949a1613c74fb01f7",
+  "version": "2026-11-17"
+ },
+ "ni": {
+  "bytes": 2977,
+  "sha256": "523c5808d132ea01329d4b30bda258c880da7e02ccc6e71e3b73751c87e80088",
+  "version": "2026-11-17"
+ },
+ "nl": {
+  "bytes": 8348,
+  "sha256": "57b1b2d00eba1029c662dec8e46dc4b2360db318fdb4bdab2ad6a7324e1dd063",
+  "version": "2026-11-17"
+ },
+ "no": {
+  "bytes": 2056,
+  "sha256": "4e41707cd83fc8b172f0f6c0a67105a6f1313b93cb6def238f66ed69a05c024c",
+  "version": "2026-11-17"
+ },
+ "np": {
+  "bytes": 2833,
+  "sha256": "e9ab236c5865ef18cf78bca7371ce7e3b3f91c50dd6a3ee66d7a0e62adb03c0d",
+  "version": "2026-11-17"
+ },
+ "nr": {
+  "bytes": 148,
+  "sha256": "1ac99e0028134272a8cb6b01b0fe63a2249e8936fb374016de7684f96131fe2d",
+  "version": "2026-11-17"
+ },
+ "nu": {
+  "bytes": 145,
+  "sha256": "a32cddb7b40ee8e09a10ebcf9364e2500d9f5e6508934aeadf515993fcb42402",
+  "version": "2026-11-17"
+ },
+ "nz": {
+  "bytes": 1695,
+  "sha256": "98af1298c6ae3d5b6cfb7a328cbc99f83a1347af2af13168b8859016c1499f7e",
+  "version": "2026-11-17"
+ },
+ "om": {
+  "bytes": 375,
+  "sha256": "313222fb6508c3c7b8473d6e516bf697d77a86394c740a6331b74d6d725d5aa3",
+  "version": "2026-11-17"
+ },
+ "pa": {
+  "bytes": 1606,
+  "sha256": "2dd3781a08c93820ec351aeedf111667ad9d034ac5537f9badcfac52566756b4",
+  "version": "2026-11-17"
+ },
+ "pe": {
+  "bytes": 9495,
+  "sha256": "451152004a178c02e5eef787e5a6fb77cdea2cec0be4ac8772817a215e16a57b",
+  "version": "2026-11-17"
+ },
+ "pf": {
+  "bytes": 271,
+  "sha256": "73175f436d71bfd1c73ebba9fe26054cc80184cfab0c5bd635a3dc4ceda44641",
+  "version": "2026-11-17"
+ },
+ "pg": {
+  "bytes": 384,
+  "sha256": "400f2b328758db46ae5c2bbfcee4e7ccc4e9e7d6f34ab718ea7aa462b42a5a9d",
+  "version": "2026-11-17"
+ },
+ "ph": {
+  "bytes": 3469,
+  "sha256": "ad211d6493e56f54099d3042f7abd7195aebff2b79292b1dc1bc5f17f4db97a8",
+  "version": "2026-11-17"
+ },
+ "pk": {
+  "bytes": 4228,
+  "sha256": "b880b08b9c7bd03aea0361488a3c87a379759f6572957e96ae5cf57c4bdbecbe",
+  "version": "2026-11-17"
+ },
+ "pl": {
+  "bytes": 9961,
+  "sha256": "311753383768419ea22209f0bf5fb8e45cf13e0ad7bc55678a3aaf40e6dae254",
+  "version": "2026-11-17"
+ },
+ "pm": {
+  "bytes": 174,
+  "sha256": "e1f24375de44052f4ceebc960e41fbeeeb644e44da73d745741b9eff6af884a4",
+  "version": "2026-11-17"
+ },
+ "pr": {
+  "bytes": 3003,
+  "sha256": "191e3139970c68e9413d7d9a19fc473a3af6e6305c10d6bb0de133081c7b425e",
+  "version": "2026-11-17"
+ },
+ "ps": {
+  "bytes": 1196,
+  "sha256": "8bedfb5081408628ee7fce46f082d21b14b5efe56e1c44d0cc16f7c4732c350c",
+  "version": "2026-11-17"
+ },
+ "pt": {
+  "bytes": 3761,
+  "sha256": "7b0673df98201fae90219145fe613274cf5e043aa3a8448efdc8bcd22b11e5f5",
+  "version": "2026-11-17"
+ },
+ "pw": {
+  "bytes": 210,
+  "sha256": "0a83df0a209053b1a25ce4e7b23c509599d368d6afc785eeda1a6206706b13db",
+  "version": "2026-11-17"
+ },
+ "py": {
+  "bytes": 4051,
+  "sha256": "afbe01a9c7896f5c82fe05ba91036a4176e5076ab3213d89377361eea7f688f7",
+  "version": "2026-11-17"
+ },
+ "qa": {
+  "bytes": 2143,
+  "sha256": "7d8a0e8f049fe39e198a9da6f5eaacf60264c0f832e4884e9a0b7b10e8496bd4",
+  "version": "2026-11-17"
+ },
+ "re": {
+  "bytes": 430,
+  "sha256": "952a3bdd99bc2be97d711c24343b386e99308c0afdfeccbc26fe4df8e65d04ea",
+  "version": "2026-11-17"
+ },
+ "ro": {
+  "bytes": 7621,
+  "sha256": "8c0cc31e10f3a3349aa454826511a7c7dd28b95eccd12bcfd02cba4283b1d2c4",
+  "version": "2026-11-17"
+ },
+ "rs": {
+  "bytes": 8600,
+  "sha256": "57ec93eb2b4bb6beb448a032fa3cc2c2825639d8badbc73dcc866367a0808043",
+  "version": "2026-11-17"
+ },
+ "ru": {
+  "bytes": 26708,
+  "sha256": "c86580b1d04a4d93b69e35e6b291d975f22a88b196302e77cf533434d161bc24",
+  "version": "2026-11-17"
+ },
+ "rw": {
+  "bytes": 643,
+  "sha256": "4a6f559ad6fa9e2dea4425ea1fdbbe4597a77a431425ac56006c1cb29d49752a",
+  "version": "2026-11-17"
+ },
+ "sa": {
+  "bytes": 4559,
+  "sha256": "acb859a3750d43bdff87b6719385dba0e641891e935d71c29612da04807ea0fb",
+  "version": "2026-11-17"
+ },
+ "sb": {
+  "bytes": 207,
+  "sha256": "67ced823d303565e6197ade747ca720920936e649f87f938b66a7ec135d5a8c5",
+  "version": "2026-11-17"
+ },
+ "sc": {
+  "bytes": 311,
+  "sha256": "0ce44f8148739ce79c988e6f79bd7cc0e0c1a578a8f17e68c4978f804b283a58",
+  "version": "2026-11-17"
+ },
+ "sd": {
+  "bytes": 987,
+  "sha256": "8be105b2251e08b2e8cd1de2345162993de91b440707bd9a1adf014f886d1227",
+  "version": "2026-11-17"
+ },
+ "se": {
+  "bytes": 11438,
+  "sha256": "317e45c82e2ed595907b017b449a4695354ed2141dbc4ab0439361032f7ed25e",
+  "version": "2026-11-17"
+ },
+ "sg": {
+  "bytes": 2347,
+  "sha256": "dcb3f28ae6245e63bb5a16c0466dbda21407ee7e1327130cfca54c118bd008c6",
+  "version": "2026-11-17"
+ },
+ "sh": {
+  "bytes": 136,
+  "sha256": "d071bd604e299b9a49c4bedc18359d8b05d458cbf8fcbd4db65c5eda818cd22e",
+  "version": "2026-11-17"
+ },
+ "si": {
+  "bytes": 2613,
+  "sha256": "91d39e9ca3a72fa8a6412b4cfc41f916f605b3501a7772d95f293b473dcd3c17",
+  "version": "2026-11-17"
+ },
+ "sk": {
+  "bytes": 3282,
+  "sha256": "50466e3423c99b288b4fa45d4da7175208c048095d9466c85d80f7a6f4a1a54a",
+  "version": "2026-11-17"
+ },
+ "sl": {
+  "bytes": 536,
+  "sha256": "bd04e7bef969ae0ef17cb9d9e171ccd39f1bd8d752bdd98b51fcd0f4fd8138d8",
+  "version": "2026-11-17"
+ },
+ "sm": {
+  "bytes": 176,
+  "sha256": "04f6df0beb75c89afeb73d6ac73850b358272700581d6351aadead5f0bb0b958",
+  "version": "2026-11-17"
+ },
+ "sn": {
+  "bytes": 2254,
+  "sha256": "07c5bd4e3dfa16f30d6e4202a14d661774c9e5f7f1d83966fb6ede59b168ac3c",
+  "version": "2026-11-17"
+ },
+ "so": {
+  "bytes": 617,
+  "sha256": "aaf4519181d16e3dcd9f5593bf8e6df4fae1130fcfabfcbdb9149bcdf72b0ace",
+  "version": "2026-11-17"
+ },
+ "sr": {
+  "bytes": 1295,
+  "sha256": "cc75f60aa0af7887f027e9afa4fe235dfe54f2c4c55da8ee82b3ff06a068d2fb",
+  "version": "2026-11-17"
+ },
+ "ss": {
+  "bytes": 342,
+  "sha256": "867f945ea1ee5154c36c3b6c6af368331d11950cb5fda1f0e05bb1b4e62bf146",
+  "version": "2026-11-17"
+ },
+ "st": {
+  "bytes": 153,
+  "sha256": "a8c47287f04550a0d1d7e996dbb62bf8fe763970af093a015ad621d4b694eb1e",
+  "version": "2026-11-17"
+ },
+ "sv": {
+  "bytes": 2255,
+  "sha256": "3cb6285eee90dfcaa5baeb6661da7eb49694a199ccfd9fb1a7d1468d8345dadf",
+  "version": "2026-11-17"
+ },
+ "sx": {
+  "bytes": 387,
+  "sha256": "339eeeab1a8a5c6259cca1174038abdf62dc46688b2784b25271025ba23caba4",
+  "version": "2026-11-17"
+ },
+ "sy": {
+  "bytes": 1127,
+  "sha256": "41ef7bc9d825295bc51b1a86a579b0e0471ee2efb57757d4ba9e9b76a47178ff",
+  "version": "2026-11-17"
+ },
+ "sz": {
+  "bytes": 191,
+  "sha256": "779ecfab75bb95794c18968eae3979cd9fbafff15ff0acc3ffdda13a7404d772",
+  "version": "2026-11-17"
+ },
+ "tc": {
+  "bytes": 191,
+  "sha256": "118dee2d7a453c41b813cf7e79a30faf085a0213ba744fd3d974ce1e468809dc",
+  "version": "2026-11-17"
+ },
+ "td": {
+  "bytes": 392,
+  "sha256": "90985d62bbbdd8b636dcf628268af8c0bb300b3d6a1bda41f676dbee539f5ad4",
+  "version": "2026-11-17"
+ },
+ "tg": {
+  "bytes": 1080,
+  "sha256": "3176ad87178e7f6d588c6e54d775903ded552b93811fed873f23bc6119a08799",
+  "version": "2026-11-17"
+ },
+ "th": {
+  "bytes": 5175,
+  "sha256": "1be30ffad6111d45a93519fb5b521ddf7beccad1494b2d209c2d91d1fc3ed014",
+  "version": "2026-11-17"
+ },
+ "tj": {
+  "bytes": 606,
+  "sha256": "fdf6beee2793e662bd8e25f120fdf9340d25d28a74e77b7904a4dfaa6f725a76",
+  "version": "2026-11-17"
+ },
+ "tl": {
+  "bytes": 288,
+  "sha256": "683b51e87b977ce607ffed5cb37bbf009f72033a38cc798c23742325ad388742",
+  "version": "2026-11-17"
+ },
+ "tm": {
+  "bytes": 328,
+  "sha256": "bbf0edc804d73fb28c31ebe4fe463e65396f0760453aaae6668aaa449cdc8513",
+  "version": "2026-11-17"
+ },
+ "tn": {
+  "bytes": 990,
+  "sha256": "115166ac963fb1ee886c1c07a64100a09db775f48482fab244f4178eb1e8b0eb",
+  "version": "2026-11-17"
+ },
+ "to": {
+  "bytes": 213,
+  "sha256": "192ff0b92da16f5dc3787e87e776cbb32b7b7e24599851a952dde8db051e7e5a",
+  "version": "2026-11-17"
+ },
+ "tr": {
+  "bytes": 9240,
+  "sha256": "bd5841c74cfc715a148eced5f385bea1f316955393878d452a925f66c56c9baf",
+  "version": "2026-11-17"
+ },
+ "tt": {
+  "bytes": 1224,
+  "sha256": "03923775baa3b62a608aeea29c965c6d33ff150c14e29c0828f62da74bbce490",
+  "version": "2026-11-17"
+ },
+ "tv": {
+  "bytes": 170,
+  "sha256": "75a2be2379632edad02bd912479a963f822028ee59a55aaef078378028c8a31c",
+  "version": "2026-11-17"
+ },
+ "tw": {
+  "bytes": 3683,
+  "sha256": "15c8b9930fa47e4cbb41b75968718878c0f37619ed447b4bec668ac27d1fe427",
+  "version": "2026-11-17"
+ },
+ "tz": {
+  "bytes": 1936,
+  "sha256": "761e9251264899b328982eb2fc40a22d147e82a4c284912035dcf04b9b06ea03",
+  "version": "2026-11-17"
+ },
+ "ua": {
+  "bytes": 12261,
+  "sha256": "933758ee295d9fecda0c884516c589a9740559e3259ae94984ae44fbcdc529b1",
+  "version": "2026-11-17"
+ },
+ "ug": {
+  "bytes": 2229,
+  "sha256": "b763862fe10113901b9f506682d019da30bfcfe4c1d2f3abc80632e5042fa76f",
+  "version": "2026-11-17"
+ },
+ "uk": {
+  "bytes": 14503,
+  "sha256": "8bc9833ad1f5f27e84735538ed9371d81bcd272fab23a33c9904f11cbe14ea2f",
+  "version": "2026-11-17"
+ },
+ "us": {
+  "bytes": 122456,
+  "sha256": "2be46fa48ebbe5f48168994078efe0135b535cffc6cc38131a70bbdeea2dbee8",
+  "version": "2026-11-17"
+ },
+ "uy": {
+  "bytes": 3679,
+  "sha256": "75a4720b3dba4a159dc97bb1080603107eedf2e3a38d0d0e62fecbfe32778f45",
+  "version": "2026-11-17"
+ },
+ "uz": {
+  "bytes": 1645,
+  "sha256": "72bca3143e16cde4f4a887e99204f48147fc773357111103848b802a45ce61f7",
+  "version": "2026-11-17"
+ },
+ "va": {
+  "bytes": 265,
+  "sha256": "938c69a265a42353e9b0d50da2ad6dc5f505c5945c48bd15b0262710ead18689",
+  "version": "2026-11-17"
+ },
+ "vc": {
+  "bytes": 230,
+  "sha256": "83139504b4605a5d244132f0d9bde29f7f6706c83790bebd9acb256c4195d17c",
+  "version": "2026-11-17"
+ },
+ "ve": {
+  "bytes": 5144,
+  "sha256": "a250119d9c60c59212c949e19157b7ecf3b8dfecac64cd2d870c88c927a77b40",
+  "version": "2026-11-17"
+ },
+ "vg": {
+  "bytes": 238,
+  "sha256": "d2b1334713dafc21f2abd0246d62b3afecea904c66ae32d48a83c383b6394349",
+  "version": "2026-11-17"
+ },
+ "vi": {
+  "bytes": 399,
+  "sha256": "321523acd16f37813b7cc31a78a4c99e09d81cc022ec6e8af4acf12114e18e42",
+  "version": "2026-11-17"
+ },
+ "vn": {
+  "bytes": 4713,
+  "sha256": "8b50404458a37bbeabe1ce2dde59e3f299982afcfece480b5813f45d8f682adc",
+  "version": "2026-11-17"
+ },
+ "vu": {
+  "bytes": 232,
+  "sha256": "59863441137f94089bb235e98421cf2e661a064740bee0a105eb44d835d2ef1e",
+  "version": "2026-11-17"
+ },
+ "wf": {
+  "bytes": 166,
+  "sha256": "d134852aa3402b701f549f575b6ac90dfd17a6f9136f5952310bf61d09197400",
+  "version": "2026-11-17"
+ },
+ "ws": {
+  "bytes": 349,
+  "sha256": "36e96c31877eb750ba365ed245fb3beca705d881cb8ea9991b1a299f5eafb1e2",
+  "version": "2026-11-17"
+ },
+ "xk": {
+  "bytes": 1541,
+  "sha256": "8c597a0a33abae4e7e333cc5dd8e6c0bd408609e030a054cb206e98df206ac16",
+  "version": "2026-11-17"
+ },
+ "ye": {
+  "bytes": 704,
+  "sha256": "471066291d136470a69e75bb3b5c7027fae672487b4e9b1e75a1d68457d01361",
+  "version": "2026-11-17"
+ },
+ "yt": {
+  "bytes": 297,
+  "sha256": "3de7722b730a1a789f345e211b00ab864151f8daa287eaacb69d7fcdf665369c",
+  "version": "2026-11-17"
+ },
+ "za": {
+  "bytes": 5168,
+  "sha256": "c5530e4aa6adb96740d39b1acf60d387482682f655389e5001d865b72d80178d",
+  "version": "2026-11-17"
+ },
+ "zm": {
+  "bytes": 1125,
+  "sha256": "e84f664c8fd49c8bf5240d3c84ae4297e731986de0bec7b0814bd91d2cc66c50",
+  "version": "2026-11-17"
+ },
+ "zw": {
+  "bytes": 566,
+  "sha256": "04698b728b26356c13f64d98ee984c0a50c5bef69b4234b9fa2ed473f8b01d46",
+  "version": "2026-11-17"
+ }
+}
