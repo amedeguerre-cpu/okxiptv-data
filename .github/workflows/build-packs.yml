@@ -1,0 +1,71 @@
+# Rebuilds the per-country logo packs from the iptv-org API once a month (and
+# on demand), checks them, and commits packs/ only when a pack really changed.
+# Unchanged packs keep their file and version (--previous packs), so apps,
+# which compare versions, don't download them again.
+name: build-packs
+
+on:
+  schedule:
+    # 04:17 UTC on the 3rd of every month.
+    - cron: '17 4 3 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Never two runs pushing at once.
+concurrency:
+  group: build-packs
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: 3.14.0
+
+      - run: dart pub get
+
+      - name: Analyze the tools
+        run: dart analyze
+
+      - name: Build
+        run: dart run tool/build_packs.dart --out "$RUNNER_TEMP/packs" --previous packs
+
+      # JSON parses, manifest within 64 KB, every pack listed with matching
+      # size and SHA-256, no pack over 200 KB gzipped, TR >= 300 channels.
+      - name: Validate
+        run: dart run tool/validate_packs.dart "$RUNNER_TEMP/packs"
+
+      # Kept a week, to look at a build that failed validation.
+      - name: Upload the build
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: packs
+          path: ${{ runner.temp }}/packs
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: Replace packs/
+        run: |
+          rm -rf packs
+          cp -R "$RUNNER_TEMP/packs" packs
+
+      - name: Commit if anything changed
+        run: |
+          git add -A packs
+          if git diff --cached --quiet; then
+            echo "Packs unchanged; nothing to commit."
+            exit 0
+          fi
+          git diff --cached --stat
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Update logo packs $(date -u +%Y-%m-%d)"
+          git push
